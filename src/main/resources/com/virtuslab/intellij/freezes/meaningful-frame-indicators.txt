@@ -1,0 +1,12 @@
+org.jetbrains.plugins.scala.lang.parser
+org.jetbrains.plugins.scala.project.package$ModuleExt$
+org.jetbrains.plugins.scala.project.package$ProjectExt$
+com.intellij.openapi.module.impl.ModuleImpl.getModuleFilePath
+com.twitter.intellij.pants.util.PantsUtil.findFileByPath
+FileUtil.toCanonicalPath
+com.twitter.strato
+com.twitter.intellijUpdaterPlugin
+com.twitter.intellij.pants.quickfix.AddPythonFacetQuickFix
+com.intellij.openapi.roots.impl.OrderEnumeratorBase
+com.intellij.openapi.roots.impl.RootIndex
+gnu.trove.TObjectHash
